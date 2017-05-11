@@ -1,0 +1,12 @@
+PODS:
+  - AKDashboardView (1.0.0)
+
+DEPENDENCIES:
+  - AKDashboardView
+
+SPEC CHECKSUMS:
+  AKDashboardView: 559d9d5dbf35551eda40fc6315dc77d98e63acc6
+
+PODFILE CHECKSUM: dc05d30834bf0a10f6be719559baad02d9e33140
+
+COCOAPODS: 1.2.1
